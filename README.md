@@ -5,11 +5,11 @@ This repository contains all the slides and data required for the training. An o
 
 | Time        | Slides                                             | Data |
 |-------------|----------------------------------------------------|------|
-| 9:00-10:30  | **Group 1**-Climate Module 1: Introduction to   climate change |      |
+| 9:00-10:30  | ***Group 1***-Climate Module 1: Introduction to   climate change |      |
 | 10:30-11:00 | Coffee break                                       |      |
-| 11:00-12:30 | **Group 1**Crop Module 1: Introduction to crop   modelling    |      |
+| 11:00-12:30 | ***Group 1***-Crop Module 1: Introduction to crop   modelling    |      |
 | 12:30-13:30 | Lunch break                                        |      |
-| 13:30-15:00 | **Group 2**Climate Module 1: Introduction to   climate change |      |
+| 13:30-15:00 | ***Group 2***-Climate Module 1: Introduction to   climate change |      |
 | 15:00-15:30 | Coffee break                                       |      |
-| 15:30-17:00 | **Group 2**Crop Module 1: Introduction to crop   modelling    |      |
+| 15:30-17:00 | ***Group 2***-Crop Module 1: Introduction to crop   modelling    |      |
 
