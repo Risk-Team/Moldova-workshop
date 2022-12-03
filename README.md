@@ -59,6 +59,6 @@ This repository contains all the slides and data required for the training. An o
 | 10:30-11:00 | Coffee break                                       |      |
 | 11:00-12:30 | ***Group 1***-Crop Module 6: Hands-on exercise-II     |      |
 | 12:30-13:30 | Lunch break                                        |      |
-| 13:30-15:00 | ***Group 2***-Climate Module 6: Hands-on exercise-II  |      |
+| 13:30-15:00 | ***Group 2***-Climate Module 6: Hands-on exercise-I  |      |
 | 15:00-15:30 | Coffee break                                       |      |
 | 15:30-17:00 | ***Group 2***-Crop Module 6: Hands-on exercise-II     |      |
