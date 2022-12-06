@@ -13,7 +13,7 @@ This repository contains all the slides and data required for the training. An o
 | 15:00-15:30 | Coffee break                                       |
 | 15:30-17:00 | ***Group 2***-[Crop Module 1: Introduction to crop   modelling](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 
-## Tuesday day 2: Introduction to climate data and AquaCrop
+## Tuesday day 2: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)
 
 | Time        | Slides                                             | Data |
 |-------------|----------------------------------------------------|------|
@@ -38,7 +38,7 @@ This repository contains all the slides and data required for the training. An o
 | 15:30-17:00 | ***Group 2***-Crop Module 3: [Uploading data in AquaCrop-II](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%203.%20Crop%20module%203.%20Create%20and%20upload%20crop%2C%20soil%20and%20management%20files.pdf)    |      |
 
 
-## Thursday day 4: Running AquaCrop 
+## Thursday day 4: Interpreting AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)
 
 | Time        | Slides                                             | Data |
 |-------------|----------------------------------------------------|------|
