@@ -48,7 +48,7 @@ This repository contains all the slides and data required for the training. An o
 | 12:30-13:30 | Lunch break                                        |      |
 | 13:30-15:00 | ***Group 2***-Climate Module 4: [Running simulations and checking results](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%204.%20Crop%20module%204.%20Interpreting%20AquaCrop%20outputs.pdf) |      |
 | 15:00-15:30 | Coffee break                                       |      |
-| 15:30-17:00 | ***Group 2***-Crop Module 5: [Visualizing results with AquaCropPlotte3](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%204.%20Crop%20module%205.%20AquaCropPlotter.pdfr])    |    [Crop_Module_5_data](https://github.com/Risk-Team/Moldova-workshop/tree/main/material%20for%20training%20sessions/Crop_Module_5)  |
+| 15:30-17:00 | ***Group 2***-Crop Module 5: [Visualizing results with AquaCropPlotter](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%204.%20Crop%20module%205.%20AquaCropPlotter.pdfr])    |    [Crop_Module_5_data](https://github.com/Risk-Team/Moldova-workshop/tree/main/material%20for%20training%20sessions/Crop_Module_5)  |
 
 
 ## Friday day 5: Hands-on exercise 
