@@ -1,5 +1,5 @@
 # Introduction to Climate Change and Impact Assessments in Agriculture
-This repository contains all the necessary information and material for the workshop
+This repository contains all the necessary information and material for the workshop. The best way to use this data is to download the whole repository by clicking on the green button on the right corner and click "download zip". In this way, all the slides and data will be downloaded in your computer. Otherwise, follow the link for each of the session in the table below. 
 ## Monday day 1: Introduction to climate change and crop modelling
 This repository contains all the slides and data required for the training. An overview of the agenda, with a link to the slides and material is found below
 
