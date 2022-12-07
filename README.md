@@ -8,7 +8,8 @@ This repository contains all the slides and data required for the training. An o
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-10:30  | ***Group 1***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 9:00-9:30 | Welcoming remarks                                       |
+| 9:30-10:30  | ***Group 1***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
 | 10:30-11:00 | Coffee break                                       |
 | 11:00-12:30 | ***Group 1***-[Crop Module 1: Introduction to crop   modelling](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 | 12:30-13:30 | Lunch break                                        |
