@@ -8,11 +8,13 @@ This repository contains all the slides and data required for the training. An o
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-10:30  | ***Group 1***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 9:00-9:30 | ***Group 1***-[Welcoming remarks](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Workshop%20agenda.pdf)                                     |
+| 9:30-10:30  | ***Group 1***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
 | 10:30-11:00 | Coffee break                                       |
 | 11:00-12:30 | ***Group 1***-[Crop Module 1: Introduction to crop   modelling](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 | 12:30-13:30 | Lunch break                                        |
-| 13:30-15:00 | ***Group 2***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 13:30-14:00 | ***Group 2***-[Welcoming remarks](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Workshop%20agenda.pdf)                                       |
+| 14:00-15:00 | ***Group 2***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
 | 15:00-15:30 | Coffee break                                       |
 | 15:30-17:00 | ***Group 2***-[Crop Module 1: Introduction to crop   modelling](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 
