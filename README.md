@@ -3,7 +3,7 @@
 - [Monday day 1: Introduction to climate change and crop modelling](#Monday-day-1:-Introduction-to-climate-change-and-crop-modelling)
 - [Tuesday day 2: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)](#Tuesday-day-2:-Introduction-to-climate-data-and-[AquaCrop](https://www.fao.org/aquacrop/en/))
 - [Wednesday day 3: Running AquaCrop](#Wednesday-day-3:-Running-AquaCrop)
-- [Thursday day 4: Interpreting AquaCrop results and using [AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter)](#Thursday-day-4:-Interpreting-AquaCrop-results-and-using-[AquaCropPLotter](https://github.com/Risk-Team/AquaCropPlotter))
+- [Thursday day 4: Interpreting AquaCrop results and using AquaCropPLotter](#Thursday-day-4:-Interpreting-AquaCrop-results-and-using-AquaCropPLotter)
 - [Friday day 5: Hands-on exercise](#Friday-day-5:-Hands-on-exercise)
 - [## Follow-up workshop, May 30th](#Follow-up-workshop,-May-30th)  
 
