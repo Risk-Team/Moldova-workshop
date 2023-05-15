@@ -1,13 +1,3 @@
-## Table of Contents
-- [Introduction to Climate Change and Impact Assessments in Agriculture](#Introduction-to-Climate-Change-and-Impact-Assessments-in-Agriculture)
-- [Monday day 1: Introduction to climate change and crop modelling](#Monday-day-1:-Introduction-to-climate-change-and-crop-modelling)
-- [Tuesday day 2: Introduction to climate data and [AquaCrop](https://www.fao.org/aquacrop/en/)](#Tuesday-day-2:-Introduction-to-climate-data-and-[AquaCrop](https://www.fao.org/aquacrop/en/))
-- [Wednesday day 3: Running AquaCrop](#Wednesday-day-3:-Running-AquaCrop)
-- [Thursday day 4: Interpreting AquaCrop results and using AquaCropPLotter](#Thursday-day-4:-Interpreting-AquaCrop-results-and-using-AquaCropPLotter)
-- [Friday day 5: Hands-on exercise](#Friday-day-5:-Hands-on-exercise)
-- [## Follow-up workshop, May 30th](#Follow-up-workshop,-May-30th)  
-
-
 ## Introduction to Climate Change and Impact Assessments in Agriculture
 This repository contains all the necessary information and material for the workshop. The best way to use this data is to download the whole repository by clicking on the green button on the right corner and click "download zip". In this way, all the slides and data will be downloaded in your computer. Otherwise, follow the link for each of the session in the table below. 
 
