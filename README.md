@@ -1,4 +1,4 @@
-# Introduction to Climate Change and Impact Assessments in Agriculture
+## Introduction to Climate Change and Impact Assessments in Agriculture
 This repository contains all the necessary information and material for the workshop. The best way to use this data is to download the whole repository by clicking on the green button on the right corner and click "download zip". In this way, all the slides and data will be downloaded in your computer. Otherwise, follow the link for each of the session in the table below. 
 
 In case you modify by mistake the DATA folder of AquaCrop, you can download again the default files from [here](https://www.dropbox.com/sh/0f21t4pfswjnwy3/AAC1B_2H7FLTy3yk5Bh43d3qa?dl=0)
@@ -67,3 +67,6 @@ This repository contains all the slides and data required for the training. An o
 | 13:30-15:00 | ***Group 2***-Crop Module 6: [Hands-on exercise-I](https://www.dropbox.com/s/yir1ytlqjxereun/Instruction_Hands-on%20exercise.pdf?dl=0)  |    [Crop_Module_6_data](https://www.dropbox.com/sh/pid05tz7stvbv1h/AADo3DAsuShncbyG4cETHiIXa?dl=0)    |
 | 15:00-15:30 | Coffee break                                       |      |
 | 15:30-17:00 | ***Group 2***-Crop Module 6: Hands-on exercise-II     |    [Crop_Module_6_data](https://www.dropbox.com/sh/pid05tz7stvbv1h/AADo3DAsuShncbyG4cETHiIXa?dl=0)    |
+
+
+## Follow-up workshop, May 30th 
