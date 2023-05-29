@@ -69,7 +69,7 @@ This repository contains all the slides and data required for the training. An o
 | 15:30-17:00 | ***Group 2***-Crop Module 6: Hands-on exercise-II     |    [Crop_Module_6_data](https://www.dropbox.com/sh/pid05tz7stvbv1h/AADo3DAsuShncbyG4cETHiIXa?dl=0)    |
 
 
-## Follow-up workshop, May 30th 
+## Follow-up workshop: May 30th 
 
 | Time        | Slides                                             | Data |
 |-------------|----------------------------------------------------|------|
