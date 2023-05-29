@@ -70,3 +70,10 @@ This repository contains all the slides and data required for the training. An o
 
 
 ## Follow-up workshop, May 30th 
+
+| Time        | Slides                                             | Data |
+|-------------|----------------------------------------------------|------|
+| 9:00-10:30  | [AquaCrop recap](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/May_2023/Follow%20up%20AquaCrop.pdf) |  [data](https://www.dropbox.com/sh/fucqfi8eb5ob487/AAC7EK_gAy8tTABsKIquJo3Ca?dl=0)    |
+| 10:30-11:00 | Coffee break                                       |      |
+| 11:00-12:30 |[AquaCropPlotter](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/May_2023/AquaCropPlotter.pdf)     |  [data](https://www.dropbox.com/sh/o1duswr22zbqr4z/AADdih6rDOnbi0ugFX-XuEaBa?dl=0)      |
+
