@@ -85,7 +85,7 @@ This repository contains all the slides and data required for the training. An o
 
 | Time        | Slides                                             | Data |
 |-------------|----------------------------------------------------|------|
-| 9:00-11:00  | [Introduction to water stresses](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/May_2023/Follow%20up%20AquaCrop.pdf) |  [data](https://www.dropbox.com/sh/1tvn0bs252tj7mi/AAAE4keAW4Z6-_y05F3_uSuwa?dl=0)    |
+| 9:00-11:00  | [Introduction to water stresses](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/June_2023/Follow%20up%2030%20June%20AquaCrop.pdf) |  [data](https://www.dropbox.com/sh/1tvn0bs252tj7mi/AAAE4keAW4Z6-_y05F3_uSuwa?dl=0)    |
 | 11:00-11:15 | Coffee break                                       |      |
 | 11:15-13:00 |[AquaCropPlotter](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/May_2023/AquaCropPlotter.pdf)|  [data](https://www.dropbox.com/sh/evkpfvts68lir3s/AAB_xB9zFmLBdzxqUK4l7BN0a?dl=0) |
 
