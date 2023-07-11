@@ -90,3 +90,11 @@ This repository contains all the slides and data required for the training. An o
 | 11:15-13:00 |[AquaCropPlotter](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/May_2023/AquaCropPlotter.pdf)|  [data](https://www.dropbox.com/sh/evkpfvts68lir3s/AAB_xB9zFmLBdzxqUK4l7BN0a?dl=0) |
 
 [Link to AquaCropPlotter](https://tntps.shinyapps.io/aquacropplotter/)
+
+## Home exercise
+
+Follow the instruction reported [here](https://www.dropbox.com/s/uw90s4tc565x0db/Follow-up_Exercise_AquaCrop.pdf?dl=0) 
+
+The data you need to run AquaCrop is listed [here](https://www.dropbox.com/scl/fo/n2fjfipl8x79nzz1ardml/h?rlkey=ufjn2wr6jmsb1k02rtn3q6wpu&dl=0) 
+
+Results are available [here](https://www.dropbox.com/scl/fo/20dpu6r4msdcb3xfngwtl/h?rlkey=yfa7egpf07j0ixtz43q9pxv56&dl=0) and ready to be visualised in AquaCropPLotter 
